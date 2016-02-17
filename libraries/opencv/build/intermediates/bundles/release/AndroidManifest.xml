@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="org.opencv"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="2480"
+    android:versionName="2.4.8" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="19" />
+
+</manifest>
